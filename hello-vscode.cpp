@@ -4,6 +4,7 @@ int main(int argc, const char * argv[]) {
     std::cout << "Try Debug! :)" << '\n';
     std::cout << "Try gdb build! :)" << '\n';
     std::cout << "Try make build! :)" << '\n';
+    std::cout << "Try Git Push! :)" << '\n';
     return 0;
 }
 
